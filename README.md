@@ -22,7 +22,7 @@ I've always loved solving problems logically. I realy heavily on SQL and Excel t
 Because I believe in continuous growth and staying ahead of the tech curve, I am currently up-skilling in Advanced Excel, Power BI, Advanced SQL 
 and Python through online platforms to bring even more powerful data visualization and automation capabilities to my work.
 
-<img align="right" alt="GIF" src="https://github.com/AdityaKaushik9560/About_me/blob/8b51cad62bc08bf4438d73ba2e0fe5ed38e70f5f/office.jpg" width="250" height="225" />
+<img align="right" alt="GIF" src="" width="250" height="225" />
 
 
 # 💻 Tech Stack:
