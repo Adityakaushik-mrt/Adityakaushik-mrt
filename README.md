@@ -32,12 +32,9 @@ and Python through online platforms to bring even more powerful data visualizati
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
-
+<img align="right" alt="GIF" src="https://github.com/Adityakaushik-mrt/Adityakaushik-mrt/blob/main/bg4.jpg?raw=true" width="250" height="225" />
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m open to work;
 - 🚀 I’m learning A.I Magics;
 - 💬 Ask me about anything, I am happy to help;
-
- <img align="right" alt="GIF" src="https://github.com/Adityakaushik-mrt/Adityakaushik-mrt/blob/main/bg4.jpg?raw=true" width="250" height="225" />
-
