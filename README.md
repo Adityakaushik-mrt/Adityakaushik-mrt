@@ -22,8 +22,6 @@ I've always loved solving problems logically. I realy heavily on SQL and Excel t
 Because I believe in continuous growth and staying ahead of the tech curve, I am currently up-skilling in Advanced Excel, Power BI, Advanced SQL 
 and Python through online platforms to bring even more powerful data visualization and automation capabilities to my work.
 
-<img align="right" alt="GIF" src="" width="250" height="225" />
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -40,3 +38,6 @@ and Python through online platforms to bring even more powerful data visualizati
 - 👨🏻‍💻 I’m open to work;
 - 🚀 I’m learning A.I Magics;
 - 💬 Ask me about anything, I am happy to help;
+
+ <img align="right" alt="GIF" src="https://github.com/Adityakaushik-mrt/Adityakaushik-mrt/blob/main/bg4.jpg?raw=true" width="250" height="225" />
+
