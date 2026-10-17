@@ -48,7 +48,7 @@ and Python through online platforms to bring even more powerful data visualizati
 <img src="https://streak-stats.demolab.com/?user=Adityakaushik-mrt&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 <p align="center">
-<img src="https://ghchart.rshah.org/0e75b6/Adityakaushik-mrt" alt="GitHub contribution chart" width="90%"/>
+<img src="https://github.com/Adityakaushik-mrt" alt="GitHub contribution chart" width="90%"/>
 </p>
 <h3>💬 Connect with Me</h3>
 <p align="center">
