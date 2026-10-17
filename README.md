@@ -45,7 +45,7 @@ and Python through online platforms to bring even more powerful data visualizati
 
 <h3>📈 GitHub Activity</h3>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Adityakaushik-mrt&theme=default&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/demo/?user=Adityakaushik-mrt&theme=onedark&hide_border=true" alt="streak stats"/>
 </p>
 <p align="center">
 <img src="https://github.com/Adityakaushik-mrt" alt="GitHub contribution chart" width="90%"/>
