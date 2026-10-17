@@ -16,7 +16,7 @@ End-to-end Data Analytics Learning projects using SQL, Python, Power BI, and Exc
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Aditya Sharma. I am a dedicated data analysis professional with 7 years of hands-on experience in the utility domain on Oracle CC&B. 
+I am a dedicated data analysis professional with 7 years of hands-on experience in the utility domain on Oracle CC&B. 
 Coming from a strong engineering background (Post-Graduation in Electronics & Communication, AKTU),
 I've always loved solving problems logically. I realy heavily on SQL and Excel to extract insights, audit data, and streamline workflows.  
 Because I believe in continuous growth and staying ahead of the tech curve, I am currently up-skilling in Advanced Excel, Power BI, Advanced SQL 
